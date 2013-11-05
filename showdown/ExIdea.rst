@@ -13,12 +13,12 @@ iM@S Showdown! 拡張妄想
 2. 876拡張セット
 ==============================
 
-.. list-table::○日高 愛
-  :widths: 30 10 60
+
+.. list-table:: ○日高 愛
   :header-rows: 1
 
   * - カード名
-    - 種別／アピール
+    - 種別
     - 効果
   * - ハッピース
     - OP5
@@ -40,12 +40,11 @@ iM@S Showdown! 拡張妄想
     - 
 
 
-.. list-table::○水谷 絵理
-  :widths: 30 10 60
+.. list-table:: ○水谷 絵理
   :header-rows: 1
 
   * - カード名
-    - 種別／アピール
+    - 種別
     - 効果
   * - "HELLO!!"
     - OP3
@@ -69,12 +68,11 @@ iM@S Showdown! 拡張妄想
     - [ショーダウン時] 「水谷絵理」のカードは基本ポイントがすべて２倍になる。
 
 
-.. list-table::○秋月 涼
-  :widths: 30 10 60
+.. list-table:: ○秋月 涼
   :header-rows: 1
 
   * - カード名
-    - 種別／アピール
+    - 種別
     - 効果
   * - エージェント夜を往く ～M@STER VERSION～
     - OP4
