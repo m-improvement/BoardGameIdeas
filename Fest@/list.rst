@@ -162,6 +162,7 @@ IM@S Festival (仮)
 
 .. list-table:: 固有カード(全51枚)
   :header-rows: 1
+
   * - 01-I-001
     - 乙女よ大志を抱け!!
     - 
