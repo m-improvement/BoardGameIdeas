@@ -130,7 +130,7 @@ Project IM@S に関する創作時間が最も長いプレイヤーが最初の�
 
 ラウンドボードは以下のようになっています。
 
-.. image: images/board-sample.png
+.. image:: images/board-sample.png
 
 
 4.3. アクションの実施方法
